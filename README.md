@@ -14,9 +14,9 @@ The application takes a close look at history of prices in between January and M
 
 The program is based on Python 3 and require the following libraries/packages to function
 
-- Jupyter Lab
+- Jupyter Lab <br>
     JupyterLab is a web-based user interface designed for data analysis. It lets you write and run Python programs and then review the results—all in a single integrated development environment (IDE). JupyterLab works in association with the Anaconda distribution and the Conda package manager. You launch it from Terminal or Git Bash, and it then opens in a web browser window. 
-- Pandas
+- Pandas <br>
     Pandas is included when you use the Anaconda distribution and Conda package manager to manage your Python environments.
 
 ---
