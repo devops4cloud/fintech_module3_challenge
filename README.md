@@ -29,7 +29,7 @@ Pandas is included when you use the Anaconda distribution and Conda package mana
 
 
    - [How to install Anaconda](https://docs.continuum.io/free/anaconda/install/) 
-   - [How to Jupyter ](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) 
+   - [How to install Jupyter ](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) 
    - [How to Install Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) 
    
 
